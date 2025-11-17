@@ -1,0 +1,14 @@
+[
+  {
+    "name": "E-Commerce Platform",
+    "description": "Complete online store solution with payment processing and analytics.",
+    "price": "From $49/month",
+    "icon": "shopping-cart"
+  },
+  {
+    "name": "Learning Management System",
+    "description": "Comprehensive platform for creating and delivering online courses.",
+    "price": "From $39/month",
+    "icon": "graduation-cap"
+  }
+]
