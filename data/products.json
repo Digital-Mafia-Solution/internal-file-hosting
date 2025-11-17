@@ -3,12 +3,14 @@
     "name": "E-Commerce Platform",
     "description": "Complete online store solution with payment processing and analytics.",
     "price": "From $49/month",
-    "icon": "shopping-cart"
+    "icon": "shopping-cart",
+    "image": "https://raw.githubusercontent.com/Digital-Mafia-Solution/internal-file-hosting/main/images/original-c2466431951d7f3c8f5ac2d6e7a84d5b.webp"
   },
   {
     "name": "Learner Management System",
     "description": "Comprehensive platform for creating and delivering online courses.",
     "price": "From $39/month",
-    "icon": "graduation-cap"
+    "icon": "graduation-cap",
+    "image": "https://raw.githubusercontent.com/Digital-Mafia-Solution/internal-file-hosting/main/images/5aa60a51888f543f81754ae389e1192a.webp"
   }
 ]
